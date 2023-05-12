@@ -9,6 +9,7 @@
      * 게임 전처리.R
  
 ### branch name : JS
+* 구글뉴스_헤드라인크롤링.ipynb
 
 ### branch name : SH
 
