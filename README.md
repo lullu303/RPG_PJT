@@ -11,7 +11,3 @@
   * 게임현황통계.ipynb
  
 * 구글뉴스_헤드라인크롤링.ipynb
-
-### branch name : SH
-
-### branch name : DB
